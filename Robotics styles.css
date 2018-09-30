@@ -1,0 +1,109 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: url(robo.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;	
+}
+
+.logo {
+	/*width: 150px;*/
+	width: 11.5%;
+	/*height: 150px;*/
+	height: 11.5%;	
+	/*margin-top: 50px;*/
+	margin-top: 4%;
+	/*margin-right: 100px;*/
+	margin-right: 10%;
+	/*margin-left: 50px;*/
+	margin-left: 3.9%;
+}
+
+h1 {
+	float: right;
+	/*margin-right: 450px;*/
+	margin-right: 35.2%; 
+	/*margin-top: 80px;*/
+	margin-top: 6.2%;
+	/*font-size: 50px;*/
+	font-size: 300%;
+	/*color: #393939;*/
+	color: black;
+	background: url(https://avatars.mds.yandex.net/get-pdb/872807/9aaff182-28f0-4608-b727-e3f79fb01657/orig);
+	/*padding: 20px;*/
+	padding: 1.5%;
+}
+
+header nav {
+	background: url(https://media1.giphy.com/media/aRZ4vTsHnyW6A/giphy.gif);
+	overflow: hidden;
+	/*margin-top: 30px;*/
+	margin-top: 2.5%;
+	/*margin-right: 350px;*/
+	margin-right: 28%;
+	/*margin-left: 20px;*/
+	margin-left: 1.6%;
+}
+
+header nav ul {
+	list-style: none;
+}
+
+header nav ul li {
+	float: left;	
+}
+
+header nav ul li a {
+	padding: 10px 20px;
+	display: block;
+	color: white;
+	text-decoration: none;
+}
+
+header nav ul li a:hover{
+	background: lightgrey;
+	color: black;
+}
+
+.main {
+	width: 50%;
+	/*margin-top: 30px;*/
+	margin-top: 2.5%;
+	/*margin-left: 20px;*/	
+	margin-left: 1.6%;	
+}
+
+address {
+	/*margin-left: 20px;*/
+	margin-left: 2%;
+		
+}
+
+.saludo {
+	/*margin-top: 20px;*/
+	margin-top: 2%;
+	/*float: left;*/
+}
+
+.unete {
+	/*font-size: 50px;*/
+	font-size: 300%;  
+	/*margin-top: 150px;*/
+	margin-top: 20.5%;   
+	float: right;	 	
+}
+
+.construccion {	
+	width: 256px;
+	height: auto;
+	margin-top: 5%;
+}
+
+.cons {
+	float: right;
+	font-size: 35px;
+	margin-top: 50px;
+}
